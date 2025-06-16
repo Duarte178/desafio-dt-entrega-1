@@ -24,7 +24,7 @@ expo start
 Os dados estão em `mock/sensors.json`. Para usar um servidor local, instale e rode o json-server:
 ```bash
 npm install -g json-server
-json-server --watch mock/sensors.json --port 3000
+json-server --watch mock/sensors.json --port 3001
 ```
 
 ## Integrantes
