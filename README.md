@@ -31,5 +31,5 @@ json-server --watch mock/sensors.json --port 3000
 
 
 - Gabriel Duarte - RM 550185
-- Arthur Barbato - RM 98701
-- Pedro Henrique - RM 98701
+- Arthur Barbato - RM 99535
+- Pedro Henrique - RM 98609
